@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+data/handoffs.jsonl

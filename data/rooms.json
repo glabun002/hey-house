@@ -1,0 +1,23 @@
+{
+  "_comment": "Mock calendar for the demo. Real bookings live in The House's iOS/Android/web app. Each booking: {room, start, end, title}. Times are today, local time (America/Los_Angeles).",
+  "rooms": [
+    "North Telephone Booth",
+    "South Telephone Booth",
+    "Telephone Booth 1",
+    "Telephone Booth 2",
+    "Telephone Booth 3",
+    "Telephone Booth 4",
+    "North Main",
+    "South Main"
+  ],
+  "bookings": [
+    { "room": "North Telephone Booth", "start": "09:00", "end": "10:00", "title": "1:1 with GP" },
+    { "room": "North Telephone Booth", "start": "14:00", "end": "15:00", "title": "Candidate screen" },
+    { "room": "South Telephone Booth", "start": "11:00", "end": "11:30", "title": "Investor update call" },
+    { "room": "Telephone Booth 1", "start": "10:00", "end": "12:00", "title": "Deep work" },
+    { "room": "Telephone Booth 2", "start": "13:00", "end": "14:00", "title": "Pair programming" },
+    { "room": "Telephone Booth 3", "start": "15:00", "end": "16:00", "title": "Design review" },
+    { "room": "North Main", "start": "17:30", "end": "20:00", "title": "AI Builders SF — demo night" },
+    { "room": "South Main", "start": "00:00", "end": "23:59", "title": "Open workspace (always available)" }
+  ]
+}
