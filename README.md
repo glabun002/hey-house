@@ -55,12 +55,4 @@ hey-house/
 └── requirements.txt
 ```
 
-## Why this exists
-
-My cover letter:
-
-> I'm excited about this role specifically because launching LiveKit's first San Francisco office is the same problem I've been solving at The House, except now for the team building the voice infrastructure layer I'm already watching reshape the way we interact with traditional GUIs. Crafting the premier workspace for LiveKit employees is only half of it. The other half is using the space as the product's showroom. The office should be the best demo of the product.
-
-This repo is that, made concrete.
-
 — George Labunsky
